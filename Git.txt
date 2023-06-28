@@ -10,5 +10,5 @@ git push -u origin main
 
 //ACP
 git add .
-git commit -m "Spring_intro_project"
+git commit -m "Spring_intro_projects"
 git push -u origin main
